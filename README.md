@@ -15,6 +15,7 @@ To run an application use either:
     ```
 * "ng serve" with the project name
 
-    `ng serve sample-one`
-    `ng serve sample-one --prod`
-
+    ```sh
+    ng serve sample-one
+    ng serve sample-one --prod
+    ```
